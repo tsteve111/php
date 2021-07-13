@@ -1,7 +1,7 @@
 ﻿<?php
 
 $dir = "";
-$newline  11   = "";
+$newline  22   = "";
 
 $kod = $_GET['kod'];
 if ($kod != "") echo "Kód: " . $kod . "<br><br>";
